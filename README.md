@@ -4,7 +4,7 @@ Current work of Interpretability in Outcome-Oriented Predictive Process Monitori
 The next files are based on the code provided by https://github.com/irhete/predictive-monitoring-benchmark. 
 
 - Hyperopt_LogitLeafModel
-- Hyperopt_OtherModels
+- Hyperopt_MachineLearningModels
 - Experiment_BPIC2017
 - Experiment_TF1
 - Experiment_BPIC2015
