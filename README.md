@@ -22,10 +22,10 @@ Finally, the creating of the long short-term neural networks with attention laye
 
 [TOC]
 
-# Exploratory Data Analysis and Feature Selection
+## Exploratory Data Analysis and Feature Selection
 
-# Hyperoptimalisation of parameters
+## Hyperoptimalisation of parameters
 
-# Training of the Machine Learning Models
+## Training of the Machine Learning Models
 
-# Training of the Deep Learning Models
+## Training of the Deep Learning Models
