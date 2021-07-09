@@ -12,11 +12,13 @@ An overview of the files:
 - Hyperopt_MachineLearningModels
 
 ### Training of the Machine Learning Models
+*Logit Leaf Model (LLM), Generalized Logistic Rule Regression (GLRM) and XGBoost)*
 - Experiment_BPIC2017
 - Experiment_TF1
 - Experiment_BPIC2015
 
 ### Training of the Deep Learning Models
+*Long short-term memory neural networks (LSTM)*
 - LSTM_BPIC2017
 - LSTM_TF1
 - LSTM_BPIC2015
