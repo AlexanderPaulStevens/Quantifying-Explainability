@@ -5,7 +5,7 @@ An overview of the files:
 
 
 ### Exploratory Data Analysis and Feature Selection
--EDA_FeatureSelection
+- EDA_FeatureSelection
 
 ### Hyperoptimalisation of parameters
 - Hyperopt_LogitLeafModel
