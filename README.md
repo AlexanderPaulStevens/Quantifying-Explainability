@@ -1,5 +1,5 @@
 # Interpretability through Faithfulness of Explanations in Outcome-Oriented Predictive Process Monitoring
-Current work of Interpretability in Outcome-Oriented Predictive Process Monitoring.
+Complementary code to reproduce the work of *Interpretability through Faithfulness of Explanations in Outcome-Oriented Predictive Process Monitoring*
 
 An overview of the files:
 
