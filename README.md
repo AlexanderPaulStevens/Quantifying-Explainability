@@ -26,6 +26,12 @@ The preprocessing and hyperoptimalisation are derivative work based on the code 
  We would like to thank the authors for the high quality code that allowed to fastly reproduce the provided work.
 Secondly, we acknowledgde the work provided by https://github.com/renuka98/interpretable_predictive_processmodel architecture to create the long short-term neural networks with attention layers visualisations.
 
+The .XES files are downloaded from:
+
+- BPIC2017: https://data.4tu.nl/articles/dataset/BPI_Challenge_2017/12696884
+- TF1: https://data.4tu.nl/articles/dataset/Road_Traffic_Fine_Management_Process/12683249
+- BPIC2015: https://data.4tu.nl/articles/dataset/BPI_Challenge_2015_Municipality_2/12697349/1
+
 
 
 
