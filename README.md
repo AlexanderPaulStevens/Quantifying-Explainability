@@ -39,7 +39,7 @@ In the Feature Selection file, the original .XES files are used. These can be do
 - BPIC2015: https://data.4tu.nl/articles/dataset/BPI_Challenge_2015_Municipality_2/12697349/1
 
 
-The final folders contain the figures and plot from the original paper
+Finally, the folders contain the figures and plot from the original paper
 
 
 
