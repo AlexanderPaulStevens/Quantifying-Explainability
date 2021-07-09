@@ -22,7 +22,7 @@ An overview of the files:
 - LSTM_BPIC2015
 
 
-The preprocessing and hyperoptimalisation are based on the code provided by https://github.com/irhete/predictive-monitoring-benchmark. 
+The preprocessing and hyperoptimalisation are derivative work based on the code provided by https://github.com/irhete/predictive-monitoring-benchmark. 
  We would like to thank the authors for the high quality code that allowed to fastly reproduce the provided work.
 Secondly, we acknowledgde the work provided by https://github.com/renuka98/interpretable_predictive_processmodel architecture to create the long short-term neural networks with attention layers visualisations.
 
