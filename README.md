@@ -25,7 +25,7 @@ An overview of the files:
 
 ### Quantitative Metrics
 
-This folder contains the notebook files as listened underneath. Note that for code reproduction of the quantitative metrics, these should be placed in the folder *experiments*.
+This folder contains the notebook files as listened underneath. Note that for code reproduction of the quantitative metrics, these should be placed outside this folder.
 - Experiment_BPIC2017
 - Experiment_TF1
 - Experiment_BPIC2015
